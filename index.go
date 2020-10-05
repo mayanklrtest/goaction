@@ -8,6 +8,6 @@ import "fmt"
 
 //ReturnStr - Rturn Str
 func ReturnStr(str string) string {
-	fmt.Println("Print", str)
+	fmt.Println("Print", str) //adc
 	return str
 }
